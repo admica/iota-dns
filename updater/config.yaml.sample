@@ -1,0 +1,11 @@
+name:       # optional hostname
+ns:         # optional NS record
+seed:       # generated if null
+addr:       # generated if null
+index:      # generated if null
+interval: 3 # hours between ip address checks, update iota on change
+forced_interval: 72 # max hours between iota updates
+update_retries: 3 # number of attempts to perform iota updates before accepting failure
+node: https://field.carriota.com:443 # iota node address to perform PoW
+url: https://jsonip.com # source to fetch public ip address
+key: public # key for public access
