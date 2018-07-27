@@ -1,4 +1,4 @@
-# evebot
+# iota-dns
 IOTA DNS Server and Dynamic DNS Client
 
 ![logo](https://github.com/admica/iota-dns/blob/master/logo.jpg)
