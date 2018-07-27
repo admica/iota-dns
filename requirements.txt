@@ -1,0 +1,4 @@
+pyota>=2.0.5
+PyYAML>=3.12
+cipher
+pycrypto
